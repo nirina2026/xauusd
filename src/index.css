@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tv-lightweight-charts {
+  width: 100% !important;
+}
+
+.tv-lightweight-charts table {
+  width: 100% !important;
+}
